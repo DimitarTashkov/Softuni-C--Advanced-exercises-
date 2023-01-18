@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Stack and Quees\PrintEven Numbers\bin\Debug\netcoreapp3.1\PrintEven Numbers.exe
+C:\Users\user1\source\repos\Stack and Quees\PrintEven Numbers\bin\Debug\netcoreapp3.1\PrintEven Numbers.deps.json
+C:\Users\user1\source\repos\Stack and Quees\PrintEven Numbers\bin\Debug\netcoreapp3.1\PrintEven Numbers.runtimeconfig.json
+C:\Users\user1\source\repos\Stack and Quees\PrintEven Numbers\bin\Debug\netcoreapp3.1\PrintEven Numbers.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Stack and Quees\PrintEven Numbers\bin\Debug\netcoreapp3.1\PrintEven Numbers.dll
+C:\Users\user1\source\repos\Stack and Quees\PrintEven Numbers\bin\Debug\netcoreapp3.1\PrintEven Numbers.pdb
+C:\Users\user1\source\repos\Stack and Quees\PrintEven Numbers\obj\Debug\netcoreapp3.1\PrintEven Numbers.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Stack and Quees\PrintEven Numbers\obj\Debug\netcoreapp3.1\PrintEven Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Stack and Quees\PrintEven Numbers\obj\Debug\netcoreapp3.1\PrintEven Numbers.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Stack and Quees\PrintEven Numbers\obj\Debug\netcoreapp3.1\PrintEven Numbers.AssemblyInfo.cs
+C:\Users\user1\source\repos\Stack and Quees\PrintEven Numbers\obj\Debug\netcoreapp3.1\PrintEven Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Stack and Quees\PrintEven Numbers\obj\Debug\netcoreapp3.1\PrintEven Numbers.dll
+C:\Users\user1\source\repos\Stack and Quees\PrintEven Numbers\obj\Debug\netcoreapp3.1\PrintEven Numbers.pdb
+C:\Users\user1\source\repos\Stack and Quees\PrintEven Numbers\obj\Debug\netcoreapp3.1\PrintEven Numbers.genruntimeconfig.cache

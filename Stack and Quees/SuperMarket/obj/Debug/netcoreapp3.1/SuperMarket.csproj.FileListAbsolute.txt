@@ -1,0 +1,13 @@
+C:\Users\user1\source\repos\Stack and Quees\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.exe
+C:\Users\user1\source\repos\Stack and Quees\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.deps.json
+C:\Users\user1\source\repos\Stack and Quees\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.runtimeconfig.json
+C:\Users\user1\source\repos\Stack and Quees\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Stack and Quees\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.dll
+C:\Users\user1\source\repos\Stack and Quees\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.pdb
+C:\Users\user1\source\repos\Stack and Quees\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Stack and Quees\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Stack and Quees\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.AssemblyInfo.cs
+C:\Users\user1\source\repos\Stack and Quees\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Stack and Quees\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.dll
+C:\Users\user1\source\repos\Stack and Quees\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.pdb
+C:\Users\user1\source\repos\Stack and Quees\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.genruntimeconfig.cache

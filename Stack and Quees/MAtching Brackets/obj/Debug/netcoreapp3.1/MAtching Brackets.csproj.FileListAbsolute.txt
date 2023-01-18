@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Stack and Quees\MAtching Brackets\bin\Debug\netcoreapp3.1\MAtching Brackets.exe
+C:\Users\user1\source\repos\Stack and Quees\MAtching Brackets\bin\Debug\netcoreapp3.1\MAtching Brackets.deps.json
+C:\Users\user1\source\repos\Stack and Quees\MAtching Brackets\bin\Debug\netcoreapp3.1\MAtching Brackets.runtimeconfig.json
+C:\Users\user1\source\repos\Stack and Quees\MAtching Brackets\bin\Debug\netcoreapp3.1\MAtching Brackets.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Stack and Quees\MAtching Brackets\bin\Debug\netcoreapp3.1\MAtching Brackets.dll
+C:\Users\user1\source\repos\Stack and Quees\MAtching Brackets\bin\Debug\netcoreapp3.1\MAtching Brackets.pdb
+C:\Users\user1\source\repos\Stack and Quees\MAtching Brackets\obj\Debug\netcoreapp3.1\MAtching Brackets.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Stack and Quees\MAtching Brackets\obj\Debug\netcoreapp3.1\MAtching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Stack and Quees\MAtching Brackets\obj\Debug\netcoreapp3.1\MAtching Brackets.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Stack and Quees\MAtching Brackets\obj\Debug\netcoreapp3.1\MAtching Brackets.AssemblyInfo.cs
+C:\Users\user1\source\repos\Stack and Quees\MAtching Brackets\obj\Debug\netcoreapp3.1\MAtching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Stack and Quees\MAtching Brackets\obj\Debug\netcoreapp3.1\MAtching Brackets.dll
+C:\Users\user1\source\repos\Stack and Quees\MAtching Brackets\obj\Debug\netcoreapp3.1\MAtching Brackets.pdb
+C:\Users\user1\source\repos\Stack and Quees\MAtching Brackets\obj\Debug\netcoreapp3.1\MAtching Brackets.genruntimeconfig.cache

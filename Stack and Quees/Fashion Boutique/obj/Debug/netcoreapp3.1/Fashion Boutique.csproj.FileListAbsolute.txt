@@ -1,0 +1,13 @@
+C:\Users\user1\source\repos\Stack and Quees\Fashion Boutique\bin\Debug\netcoreapp3.1\Fashion Boutique.exe
+C:\Users\user1\source\repos\Stack and Quees\Fashion Boutique\bin\Debug\netcoreapp3.1\Fashion Boutique.deps.json
+C:\Users\user1\source\repos\Stack and Quees\Fashion Boutique\bin\Debug\netcoreapp3.1\Fashion Boutique.runtimeconfig.json
+C:\Users\user1\source\repos\Stack and Quees\Fashion Boutique\bin\Debug\netcoreapp3.1\Fashion Boutique.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Stack and Quees\Fashion Boutique\bin\Debug\netcoreapp3.1\Fashion Boutique.dll
+C:\Users\user1\source\repos\Stack and Quees\Fashion Boutique\bin\Debug\netcoreapp3.1\Fashion Boutique.pdb
+C:\Users\user1\source\repos\Stack and Quees\Fashion Boutique\obj\Debug\netcoreapp3.1\Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Stack and Quees\Fashion Boutique\obj\Debug\netcoreapp3.1\Fashion Boutique.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Stack and Quees\Fashion Boutique\obj\Debug\netcoreapp3.1\Fashion Boutique.AssemblyInfo.cs
+C:\Users\user1\source\repos\Stack and Quees\Fashion Boutique\obj\Debug\netcoreapp3.1\Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Stack and Quees\Fashion Boutique\obj\Debug\netcoreapp3.1\Fashion Boutique.dll
+C:\Users\user1\source\repos\Stack and Quees\Fashion Boutique\obj\Debug\netcoreapp3.1\Fashion Boutique.pdb
+C:\Users\user1\source\repos\Stack and Quees\Fashion Boutique\obj\Debug\netcoreapp3.1\Fashion Boutique.genruntimeconfig.cache
