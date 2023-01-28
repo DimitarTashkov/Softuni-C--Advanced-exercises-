@@ -1,0 +1,14 @@
+D:\Sekeleton_3.1-Lab\WordCount\bin\Debug\netcoreapp3.1\WordCount.exe
+D:\Sekeleton_3.1-Lab\WordCount\bin\Debug\netcoreapp3.1\WordCount.deps.json
+D:\Sekeleton_3.1-Lab\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.json
+D:\Sekeleton_3.1-Lab\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.dev.json
+D:\Sekeleton_3.1-Lab\WordCount\bin\Debug\netcoreapp3.1\WordCount.dll
+D:\Sekeleton_3.1-Lab\WordCount\bin\Debug\netcoreapp3.1\WordCount.pdb
+D:\Sekeleton_3.1-Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.AssemblyReference.cache
+D:\Sekeleton_3.1-Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sekeleton_3.1-Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfoInputs.cache
+D:\Sekeleton_3.1-Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfo.cs
+D:\Sekeleton_3.1-Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.CoreCompileInputs.cache
+D:\Sekeleton_3.1-Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.dll
+D:\Sekeleton_3.1-Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.pdb
+D:\Sekeleton_3.1-Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.genruntimeconfig.cache

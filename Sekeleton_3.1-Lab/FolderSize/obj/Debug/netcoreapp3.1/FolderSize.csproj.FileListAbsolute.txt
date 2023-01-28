@@ -1,0 +1,14 @@
+D:\Sekeleton_3.1-Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.exe
+D:\Sekeleton_3.1-Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.deps.json
+D:\Sekeleton_3.1-Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.json
+D:\Sekeleton_3.1-Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.dev.json
+D:\Sekeleton_3.1-Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.dll
+D:\Sekeleton_3.1-Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.pdb
+D:\Sekeleton_3.1-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.AssemblyReference.cache
+D:\Sekeleton_3.1-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sekeleton_3.1-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfoInputs.cache
+D:\Sekeleton_3.1-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfo.cs
+D:\Sekeleton_3.1-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.CoreCompileInputs.cache
+D:\Sekeleton_3.1-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.dll
+D:\Sekeleton_3.1-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.pdb
+D:\Sekeleton_3.1-Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.genruntimeconfig.cache

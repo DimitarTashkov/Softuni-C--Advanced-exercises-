@@ -1,0 +1,14 @@
+D:\Skeleton_3.1-Exercise\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.exe
+D:\Skeleton_3.1-Exercise\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.deps.json
+D:\Skeleton_3.1-Exercise\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.runtimeconfig.json
+D:\Skeleton_3.1-Exercise\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.runtimeconfig.dev.json
+D:\Skeleton_3.1-Exercise\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.dll
+D:\Skeleton_3.1-Exercise\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.pdb
+D:\Skeleton_3.1-Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.csproj.AssemblyReference.cache
+D:\Skeleton_3.1-Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skeleton_3.1-Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.AssemblyInfoInputs.cache
+D:\Skeleton_3.1-Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.AssemblyInfo.cs
+D:\Skeleton_3.1-Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.csproj.CoreCompileInputs.cache
+D:\Skeleton_3.1-Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.dll
+D:\Skeleton_3.1-Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.pdb
+D:\Skeleton_3.1-Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.genruntimeconfig.cache

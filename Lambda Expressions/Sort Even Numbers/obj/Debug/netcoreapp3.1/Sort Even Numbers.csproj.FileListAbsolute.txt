@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Lambda Expressions\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.exe
+C:\Users\user1\source\repos\Lambda Expressions\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.deps.json
+C:\Users\user1\source\repos\Lambda Expressions\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.runtimeconfig.json
+C:\Users\user1\source\repos\Lambda Expressions\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Lambda Expressions\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.dll
+C:\Users\user1\source\repos\Lambda Expressions\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.pdb
+C:\Users\user1\source\repos\Lambda Expressions\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Lambda Expressions\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Lambda Expressions\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Lambda Expressions\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.AssemblyInfo.cs
+C:\Users\user1\source\repos\Lambda Expressions\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Lambda Expressions\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.dll
+C:\Users\user1\source\repos\Lambda Expressions\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.pdb
+C:\Users\user1\source\repos\Lambda Expressions\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.genruntimeconfig.cache

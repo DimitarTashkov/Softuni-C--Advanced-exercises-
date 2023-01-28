@@ -1,0 +1,13 @@
+C:\Users\user1\source\repos\Lambda Expressions\Predicate For Names\bin\Debug\netcoreapp3.1\Predicate For Names.exe
+C:\Users\user1\source\repos\Lambda Expressions\Predicate For Names\bin\Debug\netcoreapp3.1\Predicate For Names.deps.json
+C:\Users\user1\source\repos\Lambda Expressions\Predicate For Names\bin\Debug\netcoreapp3.1\Predicate For Names.runtimeconfig.json
+C:\Users\user1\source\repos\Lambda Expressions\Predicate For Names\bin\Debug\netcoreapp3.1\Predicate For Names.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Lambda Expressions\Predicate For Names\bin\Debug\netcoreapp3.1\Predicate For Names.dll
+C:\Users\user1\source\repos\Lambda Expressions\Predicate For Names\bin\Debug\netcoreapp3.1\Predicate For Names.pdb
+C:\Users\user1\source\repos\Lambda Expressions\Predicate For Names\obj\Debug\netcoreapp3.1\Predicate For Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Lambda Expressions\Predicate For Names\obj\Debug\netcoreapp3.1\Predicate For Names.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Lambda Expressions\Predicate For Names\obj\Debug\netcoreapp3.1\Predicate For Names.AssemblyInfo.cs
+C:\Users\user1\source\repos\Lambda Expressions\Predicate For Names\obj\Debug\netcoreapp3.1\Predicate For Names.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Lambda Expressions\Predicate For Names\obj\Debug\netcoreapp3.1\Predicate For Names.dll
+C:\Users\user1\source\repos\Lambda Expressions\Predicate For Names\obj\Debug\netcoreapp3.1\Predicate For Names.pdb
+C:\Users\user1\source\repos\Lambda Expressions\Predicate For Names\obj\Debug\netcoreapp3.1\Predicate For Names.genruntimeconfig.cache

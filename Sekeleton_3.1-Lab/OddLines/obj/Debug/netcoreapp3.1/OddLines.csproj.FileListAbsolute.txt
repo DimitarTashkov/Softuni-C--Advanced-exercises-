@@ -1,0 +1,14 @@
+D:\Sekeleton_3.1-Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.exe
+D:\Sekeleton_3.1-Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.deps.json
+D:\Sekeleton_3.1-Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.json
+D:\Sekeleton_3.1-Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.dev.json
+D:\Sekeleton_3.1-Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.dll
+D:\Sekeleton_3.1-Lab\OddLines\bin\Debug\netcoreapp3.1\OddLines.pdb
+D:\Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.AssemblyReference.cache
+D:\Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfoInputs.cache
+D:\Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfo.cs
+D:\Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.CoreCompileInputs.cache
+D:\Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.dll
+D:\Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.pdb
+D:\Sekeleton_3.1-Lab\OddLines\obj\Debug\netcoreapp3.1\OddLines.genruntimeconfig.cache

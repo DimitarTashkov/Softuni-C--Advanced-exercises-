@@ -1,0 +1,14 @@
+D:\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.exe
+D:\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.deps.json
+D:\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.json
+D:\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.dev.json
+D:\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.dll
+D:\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.pdb
+D:\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.AssemblyReference.cache
+D:\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfoInputs.cache
+D:\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfo.cs
+D:\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.CoreCompileInputs.cache
+D:\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.dll
+D:\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.pdb
+D:\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+D:\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+D:\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+D:\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+D:\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+D:\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+D:\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+D:\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+D:\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+D:\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+D:\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+D:\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+D:\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache
