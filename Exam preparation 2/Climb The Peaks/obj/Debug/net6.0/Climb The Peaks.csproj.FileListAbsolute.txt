@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\bin\Debug\net6.0\Climb The Peaks.exe
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\bin\Debug\net6.0\Climb The Peaks.deps.json
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\bin\Debug\net6.0\Climb The Peaks.runtimeconfig.json
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\bin\Debug\net6.0\Climb The Peaks.dll
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\bin\Debug\net6.0\Climb The Peaks.pdb
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\obj\Debug\net6.0\Climb The Peaks.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\obj\Debug\net6.0\Climb The Peaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\obj\Debug\net6.0\Climb The Peaks.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\obj\Debug\net6.0\Climb The Peaks.AssemblyInfo.cs
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\obj\Debug\net6.0\Climb The Peaks.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\obj\Debug\net6.0\Climb The Peaks.dll
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\obj\Debug\net6.0\refint\Climb The Peaks.dll
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\obj\Debug\net6.0\Climb The Peaks.pdb
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\obj\Debug\net6.0\Climb The Peaks.genruntimeconfig.cache
+C:\Users\user1\source\repos\Exam preparation 2\Climb The Peaks\obj\Debug\net6.0\ref\Climb The Peaks.dll

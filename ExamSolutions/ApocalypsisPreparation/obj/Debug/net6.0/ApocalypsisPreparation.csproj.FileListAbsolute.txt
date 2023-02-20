@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\bin\Debug\net6.0\ApocalypsisPreparation.exe
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\bin\Debug\net6.0\ApocalypsisPreparation.deps.json
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\bin\Debug\net6.0\ApocalypsisPreparation.runtimeconfig.json
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\bin\Debug\net6.0\ApocalypsisPreparation.dll
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\bin\Debug\net6.0\ApocalypsisPreparation.pdb
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\obj\Debug\net6.0\ApocalypsisPreparation.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\obj\Debug\net6.0\ApocalypsisPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\obj\Debug\net6.0\ApocalypsisPreparation.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\obj\Debug\net6.0\ApocalypsisPreparation.AssemblyInfo.cs
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\obj\Debug\net6.0\ApocalypsisPreparation.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\obj\Debug\net6.0\ApocalypsisPreparation.dll
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\obj\Debug\net6.0\refint\ApocalypsisPreparation.dll
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\obj\Debug\net6.0\ApocalypsisPreparation.pdb
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\obj\Debug\net6.0\ApocalypsisPreparation.genruntimeconfig.cache
+C:\Users\user1\source\repos\ExamSolutions\ApocalypsisPreparation\obj\Debug\net6.0\ref\ApocalypsisPreparation.dll

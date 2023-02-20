@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QYDIuTEk7ycsoy6Mdf2D8PYGPhjlD+QGiC29zjsjuBvrN6pKaJ+nqs9/ZSnsKMsnB8Gi3eqJ651stMx4HsLq3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\source\\repos\\Classes\\CarManufacturer\\CarManufacturer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

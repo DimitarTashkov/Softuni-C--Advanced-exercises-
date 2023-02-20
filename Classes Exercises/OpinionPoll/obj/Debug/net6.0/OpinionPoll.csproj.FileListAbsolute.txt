@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\bin\Debug\net6.0\OpinionPoll.exe
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\bin\Debug\net6.0\OpinionPoll.deps.json
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\bin\Debug\net6.0\OpinionPoll.runtimeconfig.json
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\bin\Debug\net6.0\OpinionPoll.dll
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\bin\Debug\net6.0\OpinionPoll.pdb
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\obj\Debug\net6.0\OpinionPoll.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\obj\Debug\net6.0\OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\obj\Debug\net6.0\OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\obj\Debug\net6.0\OpinionPoll.AssemblyInfo.cs
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\obj\Debug\net6.0\OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\obj\Debug\net6.0\OpinionPoll.dll
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\obj\Debug\net6.0\refint\OpinionPoll.dll
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\obj\Debug\net6.0\OpinionPoll.pdb
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\obj\Debug\net6.0\OpinionPoll.genruntimeconfig.cache
+C:\Users\user1\source\repos\Classes Exercises\OpinionPoll\obj\Debug\net6.0\ref\OpinionPoll.dll

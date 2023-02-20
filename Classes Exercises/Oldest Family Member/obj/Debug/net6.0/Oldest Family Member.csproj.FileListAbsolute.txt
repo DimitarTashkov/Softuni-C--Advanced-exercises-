@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.exe
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.deps.json
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.runtimeconfig.json
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.dll
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.pdb
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.AssemblyInfo.cs
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.dll
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\obj\Debug\net6.0\refint\Oldest Family Member.dll
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.pdb
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.genruntimeconfig.cache
+C:\Users\user1\source\repos\Classes Exercises\Oldest Family Member\obj\Debug\net6.0\ref\Oldest Family Member.dll
